@@ -30,4 +30,4 @@ To run the code examples provided in this course, you can use Remix, an online S
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [License.md](License.md) file for details.
